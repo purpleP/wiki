@@ -6,6 +6,11 @@
 find -print0 | xargs -0 du -hc
 ```
 
+# Videos
+
+## Convert file to UTF-8 encoding
+`enconv -L ru -x UTF-8`
+
 # Working with archives
 
 ## Unzip file without saving
